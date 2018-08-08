@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/anhquan17/Managerment/src/entities/Employee.java</file>
+            <file>file:/home/anhquan17/Managerment/src/entities/Manager.java</file>
+            <file>file:/home/anhquan17/Managerment/src/controller/IEmployeeManage.java</file>
+            <file>file:/home/anhquan17/Managerment/src/controller/EmployeeManage.java</file>
+            <file>file:/home/anhquan17/Managerment/src/view/MainThread.java</file>
+            <file>file:/home/anhquan17/Managerment/src/entities/IEmployee.java</file>
+            <file>file:/home/anhquan17/Managerment/src/entities/Worker.java</file>
+            <file>file:/home/anhquan17/Managerment/src/entities/Gender.java</file>
+            <file>file:/home/anhquan17/Managerment/src/entities/Officer.java</file>
+            <file>file:/home/anhquan17/Managerment/src/exception/InvalidValueException.java</file>
+            <file>file:/home/anhquan17/Managerment/src/exception/QuanException.java</file>
+        </group>
+    </open-files>
+</project-private>
